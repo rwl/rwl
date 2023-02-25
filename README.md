@@ -1,16 +1,18 @@
-### Hi there 👋
+### Freelance Power Engineer
 
-<!--
-**rwl/rwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in combining *power system simulation* libraries with web technologies.
+I have experience with power flow simulation, optimization and transient simulation.
+I also work on *solvers* for sparse systems of linear equations and sparse matrix ordering algorithms.
+For web development I typically use *Vue* with Web Components and have experience with *WebAssembly*.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sector: Electrical Power Engineering
+- Nationality: British
+- Language: English
+- Experience: 10+ years
+- Qualifications: MEng, PhD
+- Languages: Rust, Python, TypeScript...
+- Flagship App: https://matpower.app
+- Contracts: EU or US (Remote)
+- Rate: 120 $/hr (min. 20 hrs)
+- Comms: Asynchronous
+- Email: r.w.lincoln@gmail.com
