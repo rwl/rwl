@@ -1,4 +1,10 @@
-### Freelance Power Engineer
+<div align="center">
+  <img src="https://github.com/rwl/rwl/raw/master/rwl.svg" width="256" height="172"/>
+  <div>
+    <h3>Richard Lincoln</h3>
+    <h4>Freelance Power Engineer</h4>
+  </div>
+</div>
 
 I specialize in combining **power system simulation** libraries with web technologies.
 I have experience with **power flow** simulation, **optimization** and **transient simulation**.
